@@ -1,0 +1,4 @@
+config BR2_PACKAGE_HOST_ARM_LINUX_GNUEABI
+        bool "arm-linux-gnueabi"
+        help
+          too many toolchains!

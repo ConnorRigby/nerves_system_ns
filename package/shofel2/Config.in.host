@@ -1,0 +1,4 @@
+config BR2_PACKAGE_HOST_SHOFEL2
+        bool "shofel2"
+        help
+          A misleadingly-named Tegra X1 Boot ROM exploit and Nintendo Switch Linux loader.
