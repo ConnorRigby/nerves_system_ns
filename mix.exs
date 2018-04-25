@@ -50,6 +50,7 @@ defmodule NervesSystemNs.MixProject do
       {:nerves, "~> 1.0-rc", runtime: false},
       {:nerves_system_br, "~> 1.0-rc", runtime: false},
       # TODO(Connor) - add toolchain
+      {:nerves_toolchain_aarch64_unknown_linux_gnueabi, "~> 1.0.0-rc.0"},
       {:nerves_system_linter, "~> 0.3.0", runtime: false},
       {:ex_doc, "~> 0.18", only: :dev}
     ]
